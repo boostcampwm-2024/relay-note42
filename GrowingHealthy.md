@@ -220,6 +220,7 @@ v 0.5.0 결과를 향하면서 과정을 기록하기 中
 ## ⭐ 수행 과정 및 결과
 
 > 퀘스트를 수행한 과정과 결과를 누적합니다.
->
-> 퀘스트 지정 방법 - **네이버** 사다리타기
-> ![{150E61FA-0E06-4D11-995D-7C32409550B3}](https://github.com/user-attachments/assets/ce1ad513-d57c-4dae-8a8c-01aab134218e)
+
+- 퀘스트 지정 방법 - **네이버** 사다리타기
+
+ ![{150E61FA-0E06-4D11-995D-7C32409550B3}](https://github.com/user-attachments/assets/ce1ad513-d57c-4dae-8a8c-01aab134218e)
