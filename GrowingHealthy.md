@@ -375,6 +375,9 @@ v 0.5.0 결과를 향하면서 과정을 기록하기 中
 ### ✅ 8월1일 목요일 피어세션
 ![image](https://github.com/user-attachments/assets/09c8e7ae-81bf-4632-8212-7b24ceb61f06)
 - 아무도 시간 내에 답을 못 맞춰서 정답 공개함
+### ✅ 8월2일 금요일 피어세션
+![image](https://github.com/user-attachments/assets/ac1d0c0f-5e18-410c-99c9-fa232ed16ac2)
+
 
 
 ## J013
